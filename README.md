@@ -132,6 +132,12 @@ You can read the mqtt protocol via the following links:
 
 [MQTT Version 3.1.1](https://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html)
 
+更多信息请访问我们的官网www.emqx.io ，或关注我们的开源项目https://github.com/emqx/emqx ，详细文档请访问 [官方文档]。
+
+ 
+
+转载于:https://my.oschina.net/u/4174826/blog/3081997
+
 [MQTT Version 5.0](https://docs.oasis-open.org/mqtt/mqtt/v5.0/cs02/mqtt-v5.0-cs02.html)
 
 [MQTT SN](https://www.oasis-open.org/committees/download.php/66091/MQTT-SN_spec_v1.2.pdf)
